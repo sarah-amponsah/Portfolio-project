@@ -39,6 +39,11 @@ h1 {
   line-height: 2;
 }
 
+.about-hero {
+  text-align: center;
+  padding: 0;
+}
+
 .about-hero h1 {
   font-size: 70px;
   line-height: 1;
