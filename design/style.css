@@ -84,5 +84,6 @@ h1 {
 .img-fluid {
   border-radius: 9px;
   max-width: 75%;
+  max-height: 75%;
   margin-top: 70px;
 }
