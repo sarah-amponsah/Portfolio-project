@@ -39,14 +39,26 @@ h1 {
   line-height: 2;
 }
 
+.about-hero {
+}
+
 .about-hero h1 {
   font-size: 60px;
   line-height: 1;
 }
 
-.about-hero p {
+.about-hero h2 {
   font-size: 17px;
   font-family: var(--default-font-family);
+}
+
+.about-hero p {
+  font-size: 14px;
+}
+
+.about-content {
+  margin: 30px;
+  padding: 160px 20px;
 }
 
 .btn-branding {
@@ -63,4 +75,9 @@ h1 {
   color: #33331a;
   cursor: pointer;
   transition: 2.5ms ease-in-out;
+}
+
+.img-fluid {
+  border-radius: 9px;
+  max-width: 75%;
 }
