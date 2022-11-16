@@ -39,26 +39,25 @@ h1 {
   line-height: 2;
 }
 
-.about-hero {
-}
-
 .about-hero h1 {
-  font-size: 60px;
+  font-size: 70px;
   line-height: 1;
 }
 
 .about-hero h2 {
-  font-size: 17px;
+  font-size: 27px;
   font-family: var(--default-font-family);
+  opacity: 75%;
 }
 
 .about-hero p {
-  font-size: 14px;
+  font-size: 15px;
+  opacity: 90%;
 }
 
 .about-content {
   margin: 30px;
-  padding: 160px 20px;
+  padding: 160px 15px;
 }
 
 .btn-branding {
@@ -80,4 +79,5 @@ h1 {
 .img-fluid {
   border-radius: 9px;
   max-width: 75%;
+  margin-top: 70px;
 }
