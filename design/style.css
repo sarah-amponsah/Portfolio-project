@@ -39,8 +39,17 @@ h1 {
   line-height: 2;
 }
 
+.about-hero h1 {
+  font-size: 60px;
+  line-height: 1;
+}
+
+.about-hero p {
+  font-size: 17px;
+  font-family: var(--default-font-family);
+}
+
 .btn-branding {
-  background: #33331a;
   color: var(--branding-color);
   font-size: 18px;
   line-height: 27px;
