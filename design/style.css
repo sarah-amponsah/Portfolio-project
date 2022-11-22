@@ -39,28 +39,28 @@ h1 {
   line-height: 2;
 }
 
-.about-hero {
+.content-container {
   text-align: center;
   padding: 0;
 }
 
-.about-hero h1 {
-  font-size: 70px;
+.content-container h1 {
+  font-size: 65px;
   line-height: 1;
 }
 
-.about-hero h2 {
+.content-container h2 {
   font-size: 27px;
   font-family: var(--default-font-family);
   opacity: 75%;
 }
 
-.about-hero p {
+.content-container {
   font-size: 15px;
   opacity: 90%;
 }
 
-.about-content {
+.content {
   margin: 30px;
   padding: 160px 15px;
 }
