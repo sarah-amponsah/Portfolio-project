@@ -4,6 +4,7 @@ font-family: 'Poppins', sans-serif;*/
 :root {
   --branding-color: #ffd11a;
   --secondary-color: #ddddbb;
+  --access-color: #33331a;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
